@@ -1,0 +1,1 @@
+setup.exe -s -n -log:%systemdrive%\windows\temp\NvidiaLogs -loglevel:6
